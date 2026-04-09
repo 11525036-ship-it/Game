@@ -31,7 +31,7 @@
 ## 🚀 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/phongle123/maze-runner.git
+git clone https://github.com/11525036-ship-it/maze-runner.git
 cd maze-runner
 pip install pygame
 python main.py
