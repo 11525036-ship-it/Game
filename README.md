@@ -30,8 +30,10 @@
 ---
 ## 🚀 Installation
 1. Clone the repository:
+```bash
 
-2. How the game work
+
+3. How the game work
 - A new maze will be generated each time play
 - The maze layout changes the difficulty dynamically
 - The game will continuously check:
