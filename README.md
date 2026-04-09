@@ -31,8 +31,11 @@
 ## 🚀 Installation
 1. Clone the repository:
 ```bash
-
-
+git clone https://github.com/phongle123/maze-runner.git
+cd maze-runner
+pip install pygame
+python main.py
+```
 3. How the game work
 - A new maze will be generated each time play
 - The maze layout changes the difficulty dynamically
