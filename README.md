@@ -55,6 +55,9 @@ python game new.py
 ![The Maze Runner Gameplay](https://github.com/user-attachments/assets/2b23e522-be1a-47de-8053-c7b886d511a1)
 ![The Maze Runner Gameplay](https://github.com/user-attachments/assets/3440edf1-c65f-419b-be25-83bb8378f13e)
 
+   📸 Video demo
+[video demo.zip](https://github.com/user-attachments/files/26609115/video.demo.zip)
+
 
 
 
