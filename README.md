@@ -29,19 +29,26 @@
 - Reach the goal before getting caught to win.
 ---
 ## 🚀 Installation
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/11525036-ship-it/Game.git
-cd maze-runner
+cd Game
 pip install pygame
-python main.py
+python game new.py
 ```
-3. How the game work
-- A new maze will be generated each time play
-- The maze layout changes the difficulty dynamically
-- The game will continuously check:
-  - If player reach the goal -> win
-  - If the hostile ball catch player -> game over
+## 📘 Step-by-Step Tutorial
+
+1. Run the Python file to start the game window.
+
+2. Use the arrow keys or WASD to move the blue ball.
+
+3.
+- The hostile ball roams the maze and will chase you.
+- If it catches you, the game ends.
+
+4. Find the exit to win the game.
+
+5. Press `ESC` to generate a new maze and try again.
  
 ## 📸 Demo
 ![The Maze Runner Gameplay](https://github.com/user-attachments/assets/6cc95ef1-3d3d-470d-a38a-f110b3020622)
